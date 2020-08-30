@@ -6,8 +6,10 @@ const styles = StyleSheet.create({
         borderWidth: 1,
         borderColor: '#e6e6f0',
         borderRadius: 8,
-        marginBottom: 16,
+        marginBottom: 54,
         overflow: 'hidden',
+        marginHorizontal: 16,
+        marginTop: -40,
     },
     profile: {
         flexDirection: 'row',
