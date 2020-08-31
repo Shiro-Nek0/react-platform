@@ -6,7 +6,6 @@ Esta plataforma foi desenvolvida durante o evento NLW#2, da <a href="https://roc
 
 O projeto tem três principais pastas:
 <ul><li>mobile</li><li>server</li><li>web</li></ul>
+&nbsp;
 
-&#149; Mobile: contém a aplicação nativa, feita em React Native;
-&#149; Server: Backend de todo o projeto, feito com Node.js/React;
-&#149; Web: Frontend web do projeto, feito em React;
+<ul><li>Mobile: contém a aplicação nativa, feita em React Native;</li><li>Server: Backend de todo o projeto, feito com Node.js/React;</li><li>Web: Frontend web do projeto, feito em React;</li></ul>
