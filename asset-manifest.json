@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-platform/static/css/main.8528d453.chunk.css",
-    "main.js": "/react-platform/static/js/main.38b5a9b9.chunk.js",
-    "main.js.map": "/react-platform/static/js/main.38b5a9b9.chunk.js.map",
+    "main.js": "/react-platform/static/js/main.9d1403eb.chunk.js",
+    "main.js.map": "/react-platform/static/js/main.9d1403eb.chunk.js.map",
     "runtime-main.js": "/react-platform/static/js/runtime-main.b32eef9d.js",
     "runtime-main.js.map": "/react-platform/static/js/runtime-main.b32eef9d.js.map",
     "static/js/2.e6e726c3.chunk.js": "/react-platform/static/js/2.e6e726c3.chunk.js",
     "static/js/2.e6e726c3.chunk.js.map": "/react-platform/static/js/2.e6e726c3.chunk.js.map",
     "index.html": "/react-platform/index.html",
-    "precache-manifest.9ca983503b1bf35285b33d73d50e5d9e.js": "/react-platform/precache-manifest.9ca983503b1bf35285b33d73d50e5d9e.js",
+    "precache-manifest.5ce0c2a95ece42bd6368510c2b4b68c9.js": "/react-platform/precache-manifest.5ce0c2a95ece42bd6368510c2b4b68c9.js",
     "service-worker.js": "/react-platform/service-worker.js",
     "static/css/main.8528d453.chunk.css.map": "/react-platform/static/css/main.8528d453.chunk.css.map",
     "static/js/2.e6e726c3.chunk.js.LICENSE.txt": "/react-platform/static/js/2.e6e726c3.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.b32eef9d.js",
     "static/js/2.e6e726c3.chunk.js",
     "static/css/main.8528d453.chunk.css",
-    "static/js/main.38b5a9b9.chunk.js"
+    "static/js/main.9d1403eb.chunk.js"
   ]
 }
